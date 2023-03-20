@@ -1,16 +1,19 @@
-### Create an accessible registration form in HTML 5
-Your task is to implement a registration form.
-#### Requirements
+### This is a registration form created in HTML 5
+Implemented a registration form.
+#### 
 
-* Create labelled fields for Name, Email and Password using the 
-proper type for each field.
-* The Password field should require a password of at least 8 
-characters to be valid.
-* Add a fieldset named Referrer with possible values for its radio 
-inputs of TV, Internet and None.
-* Mark None as the default value for Referrer.
-* Add a checkbox labelled I accept the terms of service and make its 
-acceptance compulsory.
-* Add a button labelled Register which submits the form.
-* All user input (except for the checkbox) should be sent on form 
-submission (remember to use HTML only).
+* There are labelled fields; 
+        Name
+        Email
+        Password
+* The Password field requires at least 8 characters to be valid.
+* There is a fieldset named Referrer with possible values for its radio 
+inputs;
+        TV
+        Internet
+        None - Default value
+* There is a checkbox labelled I accept the terms of service
+        One must fill it before submitting a form
+* The Register button submits the form.
+* All user input (except for the checkbox) is sent on form 
+submission.
